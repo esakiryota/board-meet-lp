@@ -27,7 +27,7 @@ export default function Home() {
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#features" className="text-gray-700 hover:text-blue-600 transition-colors">機能</a>
-              <a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.7/board-meet-darwin-arm64-0.0.7.zip" className="text-gray-700 hover:text-blue-600 transition-colors">ダウンロード</a>
+              <a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.10/board-meet-darwin-arm64-0.0.10.zip" className="text-gray-700 hover:text-blue-600 transition-colors">ダウンロード</a>
             </div>
             <button
               className="md:hidden"
@@ -41,7 +41,7 @@ export default function Home() {
           {isMenuOpen && (
             <div className="md:hidden py-4 border-t">
               <a href="#features" className="block py-2 text-gray-700 hover:text-blue-600">機能</a>
-              <a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.7/board-meet-darwin-arm64-0.0.7.zip" className="block py-2 text-gray-700 hover:text-blue-600">ダウンロード</a>
+              <a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.10/board-meet-darwin-arm64-0.0.10.zip" className="block py-2 text-gray-700 hover:text-blue-600">ダウンロード</a>
             </div>
           )}
         </nav>
@@ -59,7 +59,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.7/board-meet-darwin-arm64-0.0.7.zip"
+              href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.10/board-meet-darwin-arm64-0.0.10.zip"
               className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:from-blue-600 hover:to-indigo-700 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               Mac版をダウンロード
@@ -194,7 +194,7 @@ export default function Home() {
             </div>
 
             <a
-              href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.7/board-meet-darwin-arm64-0.0.7.zip"
+              href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.10/board-meet-darwin-arm64-0.0.10.zip"
               className="inline-flex items-center bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:from-blue-600 hover:to-indigo-700 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -227,7 +227,7 @@ export default function Home() {
               <h6 className="font-semibold text-white mb-4">製品</h6>
               <ul className="space-y-2">
                 <li><a href="#features" className="hover:text-white transition-colors">機能</a></li>
-                <li><a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.7/board-meet-darwin-arm64-0.0.7.zip" className="hover:text-white transition-colors">ダウンロード</a></li>
+                <li><a href="https://github.com/esakiryota/board-meet-poc/releases/download/v0.0.10/board-meet-darwin-arm64-0.0.10.zip" className="hover:text-white transition-colors">ダウンロード</a></li>
                 <li><a href="#" className="hover:text-white transition-colors">システム要件</a></li>
               </ul>
             </div>
